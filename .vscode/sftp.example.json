@@ -1,0 +1,12 @@
+{
+    "name": "Odoo1 WebGeeks - Staging",
+    "host": "117.53.47.235",
+    "protocol": "sftp",
+    "port": 22,
+    "username": "root",
+    "remotePath": "/home/odoo1webgeeks/custom/addons/odoo_rest_api_lab",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false,
+    "password": ""
+}
